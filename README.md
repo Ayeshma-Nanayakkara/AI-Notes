@@ -1,1 +1,2 @@
-# AI-Notes
+# Artificial Intelligence
+## Problem Solving By Searching
